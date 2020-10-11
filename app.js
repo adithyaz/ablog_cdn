@@ -1,4 +1,1 @@
-window.addEventListener('load', () => {
-    const preloader = document.querySelector('.preload');
-    preloader.classList.add('preload-finish')
-});
+window.addEventListener("load",()=>{document.querySelector(".preload").classList.add("preload-finish")});
